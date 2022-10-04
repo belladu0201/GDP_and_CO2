@@ -1,5 +1,6 @@
-# GDP_and_CO2
-Csontant 2010 US$
+
+# GDP_and_CO2 $2016
+
 FOR IDS720
 2016
 Hi Bella, this is Wafi!!! How are you and Mochi doing?
